@@ -1,13 +1,16 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Master of Computer Science
+  uni: University Of Ottawa
+  year: 2023 &mdash; present
+  # award: Most likely to succeed
+  # summary: You can choose to have either a single or multiple awards
+
+- degree: Bachelor of Computer Engineering
+  uni: Savitribai Phule Pune University, Pune, India
+  year: 2018 &mdash; 2022
+  awards:
+    - award: College topper(1st Rank) in Academic year 2018 &mdash; 2019 
+  summary: Tech lead, Computer Engineering Student Association, 2021 &mdash; 2022
+
+
